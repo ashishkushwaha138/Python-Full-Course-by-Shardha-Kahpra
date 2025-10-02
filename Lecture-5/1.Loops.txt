@@ -1,0 +1,23 @@
+What is Loop?
+Loops in Python are used to repeat actions efficiently.
+
+
+Types of Loop
+
+1.For Loop:-
+For loops is used to iterate over a sequence such as a list, tuple, string or range. 
+It allow to execute a block
+
+
+2.While Loop:-
+In Python, a while loop is used to execute a block of statements repeatedly until a given condition is satisfied.
+When the condition becomes false, the line immediately after the loop in the program is executed.
+
+3.Infinite While Loop:-
+If we want a block of code to execute infinite number of times then we can use the while loop in Python to do so.
+
+
+4.Nested Loops:-
+Python programming language allows to use one loop inside another loop which is called nested loop.
+
+
